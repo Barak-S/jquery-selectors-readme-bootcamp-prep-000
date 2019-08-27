@@ -1,4 +1,4 @@
-// declare your functions here...
-let paragraphSelector = () => {
+
+function paragraphSelector() {
   return document.querySelector("p");
 }
