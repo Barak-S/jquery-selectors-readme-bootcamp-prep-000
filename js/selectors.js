@@ -18,4 +18,4 @@ function divSelector(){
 function firstListItem(){
   return $('ul:first #pic-list')
 }
-console.log($(".pic"))
+
